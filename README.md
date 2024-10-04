@@ -1,5 +1,5 @@
-# Repo name: github-tutorial
-# This repo is for the CE7 Module 3.2 assignment
+# Repo name:  github-tutorial
+_This repo is for the CE7 Module 3.2 assignment._
 
 ![image](https://github.com/user-attachments/assets/151153c6-8990-4703-97da-7878bc8dc9e0)
 
@@ -25,7 +25,7 @@
 [SSH Keys]: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
 [OAuth Apps]: <https://docs.github.com/en/apps/oauth-apps/using-oauth-apps>
 [Identity Provider Integration]: <https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/about-security-hardening-with-openid-connect>
-
+<br>
 
 ## List of Commands
 
@@ -46,9 +46,9 @@
 | ```git config``` | Configure user information used across all local repositories. |
 | ```git diff``` | Show the difference of what has changed but mot staged/ |
 | ```git reset``` | clear staging area, rewrite working tree from specific commit point. |
+<br>
 
-
-<br> Amongst the Git commands, the 4 most commonly used in opionion are:
+## Amongst the Git commands, the 4 most commonly used in opionion are:
 1. git clone: This command creates a local copy of a remote repository, allowing developers to work on the project offline and make changes. It is crucial for collaboration as it enables team members to access the same codebase easily.
 2. git add: This command stages changes made to files, preparing them for a commit. It's an essential step in the workflow, as it allows developers to specify which changes should be included in the next commit, ensuring that only relevant modifications are tracked.
 3. git commit: After staging changes with git add, the git commit command saves those changes to the local repository with a descriptive message. This creates a checkpoint in the project's history, making it easy to track progress and revert to previous states if necessary.
