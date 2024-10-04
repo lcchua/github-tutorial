@@ -42,3 +42,6 @@
 | ```git checkout``` | Switches to the specified branch, updating the working directory to reflect the state of that branch. It's also used to create new branches by specifying the -b flag followed by the new branch name. |
 | ```git merge``` |  Merges changes from the specified branch into the currently checked out branch. It combines the changes made in the specified branch with the changes in the current branch. |
 | ```git remote``` |  Lists the remote repositories associated with the current repository. It provides information such as the remote's name and URL. |
+| ```git config``` | Configure user information used across all local repositories. |
+| ```git diff``` | Show the difference of what has changed but mot staged/ |
+| ```git reset``` | clear staging area, rewrite working tree from specific commit point. |
