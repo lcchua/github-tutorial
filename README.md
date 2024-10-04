@@ -1,8 +1,9 @@
-# github-tutorial
+# Repo name: github-tutorial
 # This repo is for the CE7 Module 3.2 assignment
 
+![image](https://github.com/user-attachments/assets/151153c6-8990-4703-97da-7878bc8dc9e0)
 
-```What is GitHub Authentication and how what methods available to be implemented?```
+## What is GitHub Authentication and how what methods available to be implemented?
 
 > [GitHub authentication] is a security mechanism that verifies user identities before granting
 > access to accounts and resources on the platform. This process is essential for protecting
@@ -45,3 +46,11 @@
 | ```git config``` | Configure user information used across all local repositories. |
 | ```git diff``` | Show the difference of what has changed but mot staged/ |
 | ```git reset``` | clear staging area, rewrite working tree from specific commit point. |
+
+
+<br> Amongst the Git commands, the 4 most commonly used in opionion are:
+1. git clone: This command creates a local copy of a remote repository, allowing developers to work on the project offline and make changes. It is crucial for collaboration as it enables team members to access the same codebase easily.
+2. git add: This command stages changes made to files, preparing them for a commit. It's an essential step in the workflow, as it allows developers to specify which changes should be included in the next commit, ensuring that only relevant modifications are tracked.
+3. git commit: After staging changes with git add, the git commit command saves those changes to the local repository with a descriptive message. This creates a checkpoint in the project's history, making it easy to track progress and revert to previous states if necessary.
+4. git push: This command uploads local commits to a remote repository, making them available to other collaborators. It is vital for sharing updates and ensuring that all team members are working with the latest version of the code.
+
